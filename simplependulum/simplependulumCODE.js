@@ -12,7 +12,7 @@ basic.forever(function () {
     while (!(input.buttonIsPressed(Button.A))) {
         basic.pause(100)
     }
-    basic.showString("Kreni")
+    basic.showString("GO")
     backgroundLightLevel = input.lightLevel()
     count = 0
     zeroCrossings = 10
