@@ -1,6 +1,6 @@
 # Hello!
 ## The BBC micro:bit is a handheld, programmable micro-computer that can be used for all sorts of cool creations, from robots to musical instruments – the possibilities are endless.
-## Complete list of all physics projects you can find in [here](https://stikka.github.io/microbit-physics/):
+## Complete list of all physics projects:
 ##      1. Acceleration.
 ##      2. Average velocity.
 ##      3. Capacitor.
